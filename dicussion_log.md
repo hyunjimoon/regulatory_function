@@ -1,3 +1,8 @@
+
+
+# change of slope recommended to be discretely-dynamic; so that we can observe trajectories
+
+
 # Optimal level of Bureaucracy  
 
 ## List of possible problems (what do system fear?)
